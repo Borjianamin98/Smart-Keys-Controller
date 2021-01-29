@@ -9,7 +9,7 @@ has the lowest consumption in terms of wiring. It is assumed that all the smart 
 of the system, communicate with each other by a program that runs on an Arduino board, and update their status according
 to the commands of the central controller. 
 
-The bus connection, which is usef for all key controllers as well as the central controller is RS485 Bus.
+The bus connection, which is used for all key controllers as well as the central controller is RS485 Bus.
 This bus is configured as a single master multiple slave. 
 
 In general, the system connection is as follows:
