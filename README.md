@@ -1,4 +1,4 @@
-# Embeded System (Smart Keys)
+# Smart Keys Controller (Embeded System)
 
 ### Description 
 
